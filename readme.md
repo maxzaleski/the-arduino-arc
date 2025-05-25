@@ -4,3 +4,5 @@ The goal is to connect a step motor controlled by the Arduino board to the axle 
 
 ### Step 1. Motor-Axle connector
 In order to connect the axle to a motor, made a 3d print sketch of a connector
+
+PS: The sketch is a courtesy of (TimeWaster)[https://www.thingiverse.com/thing:3968808/files]
